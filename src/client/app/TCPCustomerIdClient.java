@@ -18,7 +18,7 @@ public class TCPCustomerIdClient {
 			System.out.println("\tExecuting TCPProductClientApp");
 		
 			// Server information
-			int serverPortNo = 2509;
+			int serverPortNo = 8080;
 			InetAddress serverAddress = InetAddress.getLocalHost();
 			
 			// 1. Connect to remote machine

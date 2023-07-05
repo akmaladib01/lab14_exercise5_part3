@@ -16,7 +16,7 @@ public class TCPCustomersClient {
 			try {
 			
 				// Server information
-				int serverPortNo = 8088;
+				int serverPortNo = 8081;
 				InetAddress serverAddress = InetAddress.getLocalHost();
 				
 				// 1. Connect to remote machine

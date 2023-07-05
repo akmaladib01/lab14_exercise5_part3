@@ -14,7 +14,7 @@ public class TCPCustomersServer {
 	public static void main(String[] args) {
 		
 		
-		int portNo = 8088;
+		int portNo = 8081;
 		
 		CustomerDataManager manager = new CustomerDataManager();
 		

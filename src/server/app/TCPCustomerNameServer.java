@@ -16,7 +16,7 @@ public class TCPCustomerNameServer {
 
 	public static void main(String[] args) {
 
-		int portNo = 2509;
+		int portNo = 8080;
 
 		CustomerDataManager manager = new CustomerDataManager();
 
